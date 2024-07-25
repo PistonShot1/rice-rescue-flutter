@@ -1,0 +1,4 @@
+<resources>
+    <!-- Define the default notification channel ID -->
+    <string name="default_notification_channel_id" translatable="false">YOUR_DEFAULT_CHANNEL_ID</string>
+</resources>

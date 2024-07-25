@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633674970016",
+    "project_id": "vhack-rice-rescue",
+    "storage_bucket": "vhack-rice-rescue.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633674970016:android:db5e366e035ec0020baac5",
+        "android_client_info": {
+          "package_name": "com.example.vhack_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAacRPNF4qE9wCJbNPPXPbdOwevd8AQjcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
